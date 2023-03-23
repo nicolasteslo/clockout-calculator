@@ -26,14 +26,3 @@ rl.question('Clock-in:  ', (clockIn) => {
         });
     });
 });
-
-
-
-
-
-
-
-
-
-
-
